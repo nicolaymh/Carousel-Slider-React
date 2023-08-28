@@ -1,22 +1,22 @@
 export const data = [
    {
       id: 1,
-      imgUrl: "./Images/playStation.jpg",
+      imgUrl: "src/assets/Images/playStation.jpg",
    },
    {
       id: 2,
-      imgUrl: "./Images/xbox.jpg",
+      imgUrl: "src/assets/Images/xbox.jpg",
    },
    {
       id: 3,
-      imgUrl: "./Images/nintendo.jpg",
+      imgUrl: "./src/assets/Images/nintendo.jpg",
    },
    {
       id: 4,
-      imgUrl: "./Images/nintendo2.jpg",
+      imgUrl: "./src/assets/Images/nintendo2.jpg",
    },
    {
       id: 5,
-      imgUrl: "./images/playStation2.jpg",
+      imgUrl: "./src/assets/images/playStation2.jpg",
    },
 ];
