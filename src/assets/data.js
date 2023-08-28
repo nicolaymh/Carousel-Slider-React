@@ -5,18 +5,18 @@ export const data = [
    },
    {
       id: 2,
-      imgUrl: "src/assets/images/xbox.jpg",
+      imgUrl: "./src/assets/images/xbox.jpg",
    },
    {
       id: 3,
-      imgUrl: "src/assets/images/nintendo.jpg",
+      imgUrl: "./src/assets/images/nintendo.jpg",
    },
    {
       id: 4,
-      imgUrl: "src/assets/images/nintendo2.jpg",
+      imgUrl: "./src/assets/images/nintendo2.jpg",
    },
    {
       id: 5,
-      imgUrl: "src/assets/images/playStation2.jpg",
+      imgUrl: "./src/assets/images/playStation2.jpg",
    },
 ];
