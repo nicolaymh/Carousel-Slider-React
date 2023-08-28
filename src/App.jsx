@@ -59,7 +59,7 @@ function App() {
                   {data.map((item) => {
                      return (
                         <li key={item.id}>
-                           <img src={item.imgUrl} width={500} heigh={280} />
+                           <img src={item.imgUrl} width={500} height={280} />
                         </li>
                      );
                   })}
