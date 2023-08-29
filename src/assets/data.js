@@ -17,6 +17,6 @@ export const data = [
    },
    {
       id: 5,
-      imgUrl: "./images/playStation2.jpg",
+      imgUrl: "./Images/playStation2.jpg",
    },
 ];
